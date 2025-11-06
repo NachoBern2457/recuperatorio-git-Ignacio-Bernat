@@ -6,3 +6,12 @@
   **Materia:** Electrónica digital 4
   **Tema:** Control de Versiones
   **Año:** 2025
+## Documentación
+  
+  ### Requisitos
+  - Python 3.x
+  - Git instalado
+  
+  ### Autor
+  Nombre: [Ignacio Manuel Bernat Maggi]
+  Fecha: [6/11/2025]
