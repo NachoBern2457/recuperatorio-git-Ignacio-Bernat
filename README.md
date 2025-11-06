@@ -1,5 +1,5 @@
 # recuperatorio-git-Ignacio-Bernat
-# Proyecto de recuperatorio
+# Proyecto de recuperatorio - Versión actualizada
   
   Este repositorio forma parte del examen de recuperatorio de control de versiones con Git.
   
